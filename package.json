@@ -1,0 +1,15 @@
+{
+  "name": "consult-o-matic",
+  "version": "0.0.0",
+  "description": "Code for www.carlsonmckinnon.com",
+  "main": "index.html",
+  "devDependencies": {
+    "bootstrap": "^3.3.5"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trodi/consult-o-matic.git"
+  }
+}
