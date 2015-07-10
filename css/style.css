@@ -5,15 +5,23 @@
 #FF9009
 */
 body {
-    background-color: #FAF7F3;
+  color: #118C4E;
+  background-color: #FAF7F3;
 }
-.page-header, .jumbotron, .navbar {
-    color: #C1E1A6;
-    background-color: #118C4E;
-}
-.col-sm-6 {
-    color: #118C4E;
+.jumbotron {
+  color: #C1E1A6;
+  background-color: #118C4E;
 }
 .well {
   background-color: #C1E1A6;
+}
+.icon-bubble {
+  color: #118C4E;
+  padding: 20px;
+  border-radius: 990px;
+  background-color: #C1E1A6;
+  font-size: 32px;
+}
+.col-xs-4 {
+  text-align: center;
 }
