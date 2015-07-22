@@ -22,6 +22,6 @@ body {
   background-color: #C1E1A6;
   font-size: 32px;
 }
-.col-xs-4 {
+.col-xs-4, .col-sm-2 {
   text-align: center;
 }
