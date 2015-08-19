@@ -1,5 +1,7 @@
 # consult-o-matic
-Code for my consulting website. Throwing together some code for a business website. I'm not a designer, so I'll have to clean this up as I go.
+Repo for my consulting website, [Carlson McKinnon Consulting](http://carlsonmckinnon.com). It's a simple brochure style static site.
 
 ## setup
+npm is used as a package manager and may be used as a build tool as warranted.
 * npm install
+* open index.html
