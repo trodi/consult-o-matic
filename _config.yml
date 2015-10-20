@@ -8,20 +8,25 @@ description: "Write an awesome description for your new site here. You can edit 
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: C1E1A6
-  secondary: FAF7F3
+  secondary: FF9009
   secondary-dark: 118C4E
+  dark: 118C4E
 
 # Team names, titles and social links
 people:
 - name: Troy McKinnon
+  subtitle: Principal and Co-Founder
+  content: links.md
+  modal-id: team-1
   pic: tm.jpg
-  position: Principal and Co-Founder
 
 - 
 
 - name: Austin Calrson
+  subtitle: Principal and Co-Founder
+  content: links.md
+  modal-id: team-2
   pic: ac.png
-  position: Principal and Co-Founder
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

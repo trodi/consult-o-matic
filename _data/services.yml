@@ -1,0 +1,35 @@
+- title: Small Business Consultation
+  subtitle: Providing necessary guidance
+  content: consultation.md
+  modal-id: service-1
+  service: true
+
+- title: Web Design and SEO
+  subtitle: High quality web presence
+  content: web.md
+  modal-id: service-2
+  service: true
+
+- title: Branding
+  subtitle: Distinguish yourself
+  content: branding.md
+  modal-id: service-3
+  service: true
+
+- title: Mobile App Development
+  subtitle: Go native mobile
+  content: mobile.md
+  modal-id: service-4
+  service: true
+
+- title: Entity Selection
+  subtitle: Understanding types of legal entities
+  content: entity.md
+  modal-id: service-5
+  service: true
+
+- title: Small Business 101
+  subtitle: Helpful Links
+  content: links.md
+  modal-id: service-6
+  service: true
