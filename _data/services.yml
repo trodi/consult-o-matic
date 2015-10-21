@@ -39,3 +39,15 @@
   icon: link
   modal-id: service-6
   service: true
+
+- title: Troy McKinnon
+  subtitle: Principal and Co-Founder
+  content: tm.md
+  modal-id: team-1
+  pic: tm.jpg
+
+- title: Austin Carlson
+  subtitle: Principal and Co-Founder
+  content: ac.md
+  modal-id: team-2
+  pic: ac.png

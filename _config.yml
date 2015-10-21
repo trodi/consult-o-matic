@@ -17,7 +17,6 @@ color:
 people:
 - name: Troy McKinnon
   subtitle: Principal and Co-Founder
-  content: links.md
   modal-id: team-1
   pic: tm.jpg
 
@@ -25,7 +24,6 @@ people:
 
 - name: Austin Calrson
   subtitle: Principal and Co-Founder
-  content: links.md
   modal-id: team-2
   pic: ac.png
 
