@@ -7,7 +7,6 @@ Repo for my consulting website, [Carlson McKinnon Consulting](http://carlsonmcki
 
 ## TODO
 * initial port style to jekyll theme
-* add google analytics
 * convert pages
 * rm unwanted/unneeded pages
 * rm unwanted/unneeded features
