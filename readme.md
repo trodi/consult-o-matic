@@ -4,6 +4,12 @@ Repo for my consulting website, [Carlson McKinnon Consulting](http://carlsonmcki
 ## setup
 * install jekyll
 * `jekyll serve`
+* for deployment
+    * `npm install --global surge`
+
+## deploy
+* `cd _site`
+* `surge`
 
 ## TODO
 * initial port style to jekyll theme
