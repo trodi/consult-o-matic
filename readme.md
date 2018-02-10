@@ -3,6 +3,7 @@ Repo for my consulting website, [Carlson McKinnon Consulting](http://carlsonmcki
 
 ## setup
 * install jekyll
+    * `gem install jekyll`
 * `jekyll serve`
 * for deployment
     * `npm install --global surge`
