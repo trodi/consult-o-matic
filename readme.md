@@ -11,5 +11,6 @@ Repo for my consulting website, [Carlson McKinnon Consulting](http://carlsonmcki
 
 - In order to deploy, install surge:
     - `npm install --global surge`
+- Build site via `jekyll serve`
 - `cd _site`
 - `surge`
