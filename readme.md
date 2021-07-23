@@ -1,6 +1,6 @@
 # consult-o-matic
 
-Repo for my consulting website, [Carlson McKinnon Consulting](http://carlsonmckinnon.com). It's a simple brochure style static site. It is a jekyll site based on the Agency theme [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/).
+Repo for my consulting website, [Carlson McKinnon Consulting](http://carlsonmckinnon.com). It's a simple brochure style static site. It is a Jekyll site based on the Agency theme [Agency bootstrap theme](http://startbootstrap.com/templates/agency/).
 
 ## Setup
 
